@@ -4,14 +4,8 @@ Torch implementation of our ECCV18 [paper](https://arxiv.org/pdf/1807.09755.pdf)
 <p>
     <img src='examples/walk0.png' width=100 />
     <img src='examples/walk_pred16.gif' width=100 />
-</p>
-
-<p>
     <img src='examples/flag0.png' width=100 />
     <img src='examples/flag_pred16.gif' width=100 />
-</p>
-
-<p>
     <img src='examples/cloud0.png' width=100 />
     <img src='examples/cloud_pred16.gif' width=100 />
 </p>
