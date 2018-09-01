@@ -52,12 +52,12 @@ sh download_models.sh
 
 ## Training
 
-  - Train the 3DcVAE model for flow prediction:
+  - Train the `3DcVAE` model for flow prediction:
 
 ```
 th train_3DcVAE.lua --dataRoot datasets/DTexture
 ```
-  - Train the flow2rgb model for frame generation:
+  - Train the `flow2rgb` model for frame generation:
 
 ```
 th train_flow2rgb.lua --dataRoot datasets/DTexture
