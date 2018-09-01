@@ -1,0 +1,2 @@
+/home/yijun/Downloads/end2end-spynet-master/extras/stnbhwd/build/CMakeFiles/custn.dir
+/home/yijun/Downloads/end2end-spynet-master/extras/stnbhwd/build/CMakeFiles/stn.dir

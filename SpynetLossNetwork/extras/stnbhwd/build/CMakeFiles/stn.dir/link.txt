@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC  -fopenmp -O3 -DNDEBUG   -shared -Wl,-soname,libstn.so -o libstn.so CMakeFiles/stn.dir/init.c.o  -L/home/yijun/torch/install/lib -lluaT /home/yijun/torch/install/lib/libTH.so.0 -lopenblas -llapack -lrt -lm -Wl,-rpath,/home/yijun/torch/install/lib::::::::::::::: 
