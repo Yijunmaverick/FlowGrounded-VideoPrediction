@@ -44,7 +44,7 @@ cd ..
 
 - Models
 
-  - Run the following command to download the pretrained VGG (for perceptual loss) and our model learned on the `WavingFlag` for testing.
+  - Run the following command to download the pretrained VGG (for perceptual loss) and our model learned on the `WavingFlag` data for testing.
 
 ```
 sh download_models.sh
