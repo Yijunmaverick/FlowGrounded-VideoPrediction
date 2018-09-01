@@ -30,7 +30,7 @@ cd FlowGrounded-VideoPrediction
 - Data
 
   - Put the video data (e.g., `.mp4` or `.avi`) in a folder and put it under `./datasets/DTexture/raw/`.
-  - Run the following command to convert videos to frames and generate the metadata for training. The testing meta data are prepared in the same way. Make sure that the meta data for both training and testing are ready before experiments.
+  - Run the following command to convert videos to frames and generate the metadata for training. The testing data are prepared in the same way. Make sure that the meta data for both training and testing are ready before experiments.
 
 ```
 cd datasets/
