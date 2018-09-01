@@ -105,8 +105,6 @@ end
 local z_dim = 2000
 noise_x = torch.Tensor(opt.batchSize, z_dim, 1, 1, 1)
 noise_x:normal(0, 1)
-print(torch.max(noise_x))
-
 noise_x = noise_x:cuda()
 
 function flow_warping_model()
