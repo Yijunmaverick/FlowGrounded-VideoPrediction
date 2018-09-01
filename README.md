@@ -70,7 +70,7 @@ th train_flow2rgb.lua --dataRoot datasets/DTexture
 ```
 th test.lua --dataRoot datasets/DTexture
 ```
-  - With `ffmpeg` installed, run the following command to convert frames to a gif or video:
+  - With `ffmpeg` installed, run the following command to convert the predicted frames to a gif or video:
 
 ```
 python gif.py
