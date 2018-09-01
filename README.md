@@ -42,9 +42,9 @@ cd ..
 
   - We use the flows estimated by the great work [SPyNet]() as the ground truth for training. Make sure that the SPyNet [code](https://github.com/anuragranj/end2end-spynet) is complied successfully and works well.
 
-- Models
+- Pretrained models
 
-  - Run the following command to download the pretrained VGG (for perceptual loss) and our model learned on the `WavingFlag` data for testing.
+  - Run the following command to download the pretrained VGG (for perceptual loss) and our models learned on the `WavingFlag` data for testing.
 
 ```
 sh download_models.sh
