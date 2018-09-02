@@ -76,6 +76,16 @@ th test.lua --dataRoot datasets/DTexture
 python gif.py
 ```
 
+## Citation
+
+```
+@inproceedings{Prediction-ECCV-2018,
+    author = {Li, Yijun and Fang, Chen and Yang, Jimei and Wang, Zhaowen and Lu, Xin and Yang, Ming-Hsuan},
+    title = {Flow-Grounded Spatial-Temporal Video Prediction from Still Images},
+    booktitle = {European Conference on Computer Vision},
+    year = {2018}
+}
+```
 
 ## Acknowledgement
 
