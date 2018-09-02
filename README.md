@@ -1,5 +1,5 @@
 # FlowGrounded-VideoPrediction
-Torch implementation of our ECCV18 [paper](https://arxiv.org/pdf/1807.09755.pdf) on video prediction.
+Torch implementation of our ECCV18 [paper](https://arxiv.org/pdf/1807.09755.pdf) on video prediction based on one single still image.
 
 <p>
     <img src='examples/walk0.png' width=100 />
@@ -10,7 +10,7 @@ Torch implementation of our ECCV18 [paper](https://arxiv.org/pdf/1807.09755.pdf)
     <img src='examples/cloud_pred16.gif' width=100 />
 </p>
 
-In each panel from left to right: one single starting frame and predicted sequence (next 16 frames).
+In each panel from left to right: one single starting frame and the predicted sequence (next 16 frames).
 
 ## Getting started
 
