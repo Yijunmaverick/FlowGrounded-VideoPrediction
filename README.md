@@ -40,7 +40,7 @@ cd ..
 
 - SPyNet
 
-  - We use the flows estimated by the great work [SPyNet]() as the ground truth for training. Make sure that the SPyNet [code](https://github.com/anuragranj/end2end-spynet) is complied successfully and works well.
+  - We use the flows estimated by the great work [SPyNet](https://arxiv.org/abs/1611.00850) as the ground truth for training. Make sure that the SPyNet [code](https://github.com/anuragranj/end2end-spynet) is complied successfully and works well.
 
 - Pretrained models
 
