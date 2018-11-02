@@ -8,6 +8,7 @@ require 'pl'
 require 'paths'  
 require 'image'  
 require 'utils'
+require 'src/Gaussian'
 
 TF = require 'SpynetLossNetwork/transforms'
 flowX = require 'SpynetLossNetwork/flowExtensions'
